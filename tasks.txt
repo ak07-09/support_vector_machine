@@ -1,0 +1,19 @@
+05/01/2026
+
+
+1. Intro to SVM
+
+2. Soft margin and Hard Margin
+
+3. Cost Function
+
+4. Support vector Regression
+
+5. SVM Math functions
+
+6. SVM Kernals 
+
+7. SVM Kernal implementation
+
+8. Support vector Classifiers
+
